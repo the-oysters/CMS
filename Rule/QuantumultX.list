@@ -24,6 +24,10 @@ host, v3.suonizy-youku.com, DIRECT
 host, v8.sxzyhuij.com, DIRECT
 host, snzypic.com, DIRECT
 host, v8.suonizy-youku.com, DIRECT
+#量子资源
+host-suffix, cj.lziapi.com, DIRECT
+#ikun资源（直连）
+host-suffix, ikunzyapi.com, DIRECT
 #非凡资源（直连）
 host-suffix, ffzyapi.com, DIRECT
 #红牛资源（直连）
